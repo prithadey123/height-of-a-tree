@@ -5,7 +5,7 @@ This project implements a C program to calculate the **height of a binary tree**
 
 It demonstrates core concepts of tree data structures, dynamic memory allocation, and recursive algorithms.
 
----
+--
 
  Concept Overview
 
